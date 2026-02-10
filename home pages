@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h2>Testing LNA iframe block</h2>
+
+  <iframe src="https://begaprd.cloud.infor.com/infor/ffc74498-c6a1-4a38-9829-14bc29c46467?favoriteContext=%7B%22type%22%3A%22page%22%2C%22id%22%3A%229eeaa70f-8f43-482a-90b9-368158a1d4ac%22%2C%22source%22%3A762%7D&LogicalId=lid://infor.homepages.1" 
+          width="100%" height="800">
+  </iframe>
+
+</body>
+</html>
